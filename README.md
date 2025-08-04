@@ -81,3 +81,5 @@ Store your mnemonic code securely for account recovery.
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/image/chart.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/image/browser.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  Monday 04 August 2025 link is back up and live

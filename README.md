@@ -86,4 +86,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  Tuesday 19 August 2025
+
+
+Update:  08/23/2025

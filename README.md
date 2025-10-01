@@ -92,4 +92,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  09/18/2025 Fixed non-working link
+
+
+Update:  01.10.2025
